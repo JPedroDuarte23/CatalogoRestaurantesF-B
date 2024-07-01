@@ -1,2 +1,2 @@
-# CatalogoRestaurantesF-B
+# CatalogoRestaurantesFB
 Catalogo de restaurantes - Frontend + Backend
